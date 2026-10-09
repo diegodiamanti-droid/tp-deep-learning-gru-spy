@@ -1,0 +1,21 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Datos descargados y artefactos generados
+*.csv
+*.parquet
+*.h5
+*.keras
+*.pkl
+
+# Office (archivos temporales de bloqueo)
+~$*
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

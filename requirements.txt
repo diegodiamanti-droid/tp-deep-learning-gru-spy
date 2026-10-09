@@ -1,0 +1,9 @@
+# Versiones usadas en la ejecución reportada (Google Colab, CPU, 9 de octubre de 2026)
+tensorflow==2.21.0
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy==2.1.3
+yfinance==0.2.66
+matplotlib
+seaborn
+scipy
